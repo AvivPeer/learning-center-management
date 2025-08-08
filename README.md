@@ -55,7 +55,7 @@ sudo apt-get install mongodb-org
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/learning-center-management.git
+git clone https://github.com/avivpeer/learning-center-management.git
 cd learning-center-management
 
 # Compile the project
